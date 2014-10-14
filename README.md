@@ -1,5 +1,6 @@
 
 # Meteor Bootstrap Tokenfield for Bootstrap-3
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/ajduke/meteor-boostrap-tokenfield?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 
 [Bootstrap Tokenfield](https://github.com/sliptree/bootstrap-tokenfield) repackaged for Meteor
